@@ -8,9 +8,9 @@ Currently it allows for only one player (you) and the dealer.
 Gambling is not (yet) implemented, nor is splitting.
 
 
+
 RUNNING THE GAME  
 ########################################################  
-
 To start the game either use a Java IDE (such as IntelliJ or Eclipse) and run the project from Game.java.
 The game can also be run from the cmd prompt.
 To do so, follow these steps:
