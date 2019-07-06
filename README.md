@@ -1,15 +1,15 @@
 # Black-Jack
 
-DESCRIPTION
-########################################################
+DESCRIPTION\n
+########################################################\n
 This game was an assignment for a Java training. As this training takes place in the Netherlands, most (if not all) the text in the game is in Dutch.
 It is a simple Black Jack game. 
 Currently it allows for only one player (you) and the dealer.
 Gambling is not (yet) implemented, nor is splitting.
 
 
-RUNNING THE GAME
-########################################################
+RUNNING THE GAME\n
+########################################################\n
 
 To start the game either use a Java IDE (such as IntelliJ or Eclipse) and run the project from Game.java.
 The game can also be run from the cmd prompt.
